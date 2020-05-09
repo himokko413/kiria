@@ -1,7 +1,7 @@
-# Kiria: ReincarnationOS Theme Switcher
-(or at least I want to sound fancy ig)
+# Kiria: Dotfile Repository and Theme Switcher
+(maybe this should've been called DoRTS)
 
-## Created by Lucina Paige and the Shibuya System, 2020
+Created by Lucina Paige and the Shibuya System, 2020
 
 Documentation so far:
 * Every subdirectory is a theme and is directly representative of the home directory, i.e. $CONF_DIR/Reincarnation/* is translated to ~/*
